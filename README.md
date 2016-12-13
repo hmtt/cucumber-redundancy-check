@@ -1,6 +1,6 @@
 ### Overview
 
-The redundancy checker is a class that will report any implemented steps that are not referenced via a feature file. This is userful for identifying redundant code that may no longer be called; for example the scenario may have changed or been removed.
+The redundancy checker is a class that will report any implemented steps that are not referenced via a feature file. This is useful for identifying redundant code that may no longer be called; for example the scenario may have changed or been removed.
 
 **This solution will only work for Cucumber 1.1.8 and before. The functionality on which it is based has been removed from subsequent versions of Cucumber. We may look to support more current versions in the future.**
 
